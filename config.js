@@ -1,0 +1,1 @@
+window.GYM_CONFIG = { url: '', anonKey: '' };\n
